@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilesFate
 - 👀 I’m interested in gernal programing and creating things using code.
-- 🌱 I’m currently learning C++ and python.
+- 🌱 I’m currently learning C, C# and python.
 - spaghetti central
 
 <!---
