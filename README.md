@@ -1,7 +1,7 @@
 # Luisalberto Castaneda
 - 👋 Hi, I’m @MilesFate
 - 👀 I’m interested in gernal programing and creating things using code.
-- 🌱 I’m currently learning C, C# and python.
+- 🌱 I’m currently learning Java, C#, and Python.
 - spaghetti central
 
 <!---
